@@ -1,0 +1,230 @@
+{
+	"name": "",
+	"children": [
+		{"name": "UC Office of the president", "colour": "FAE088", "size": 60000},
+		{"name": "UC Regents", "colour": "FAE088", "children": [
+			{"name": "Academic Senate", "colour": "8D51A0", "size": 32000},
+			{"hide": "dummy", "size": 4000}
+		]},
+	{"name": "Chancellor: Nicholas Dirks", "colour": "FAE088",
+		"children": [
+			{"name": "Interim Assistant VC, HR: Jo Mackness", "colour": "FAE088", "size": 76000},
+			{"name": "AVC, IT & Chief Information Officer: Larry Conrad", "colour": "FAE088", "size": 76000},
+			{"name": "AVC & CFO: Rosemarie Rae", "colour": "FAE088", "size": 76000},
+			{"name": "VC Admin & Finance: Scott Biddy", "colour": "FAE088", "size": 76000},
+			{"name": "VC, Dev. & Alumni Relations: Julie Hooper", "colour": "FAE088", "size": 76000},
+			{"name": "Chief Campus Counsel: Christopher Patti", "colour": "FAE088", "size": 76000},
+			{"name": "Chancellor's Residence", "colour": "EF5D9D", "size": 76000},
+			{"name": "Interim EVC & Provost: Carol Christ", "colour": "FAE088", "children": [
+				{"name": "Associate EVCP and Chief of Staff: Phyllis Hoffman", "colour": "FAE088", "size": 26000},
+				{"name": "Vice Provost for Academic and Space Planning: Tsu-Jae Liu", "colour": "FAE088", "size": 26000},
+				{"name": "Dean, Graduate Division: Fiona Doyle", "colour": "FAE088", "size": 26000},
+				{"name": "VC Undergraduate Education: Catherine Koshland", "colour": "FAE088", "size": 26000},
+				{"name": "Vice Provost for the Faculty: Benjamin Hermalin", "colour": "FAE088", "size": 26000},
+				{"name": "VC Equity & Inclusion: Na'ilah Nasir", "colour": "FAE088", "children": [
+					{"name": "Equity and Inclusion", "colour": "FAE088", "children": [
+						{"name": "Academic Achievement Program", "colour": "39B54A", "children": [
+							{"name": "McNair Scholars Program", "colour": "333391", "size": 8600},
+							{"hide": "dummy", "size": 3000}
+						]},
+						{"name": "Haas Institute for Fair and Inclusive Society", "colour": "F68B1F", "size": 13000},
+						{"name": "Multiculturual Community Center", "colour": "EEDFAC", "children": [
+							{"name": "Multiculturual Community Center Garden", "colour": "CBDB2A", "size": 8600},
+							{"hide": "dummy", "size": 3000}
+						]},
+						{"name": "Center for Educational Equity and Excellence", "colour": "F68B1F", "children": [
+							{"name": "Food Security Committee", "colour": "8D51A0", "children": [
+								{"name": "Berkeley Food Pantry", "colour": "39B54A", "size": 8600},
+								{"hide": "dummy", "size": 1000}
+							]},
+							{"hide": "dummy", "size": 1000}
+						]}
+					]},
+					{"hide": "dummy", "size": 2000}
+				]}
+			]},
+			{"name": "VC, Research & Chief Science Advisor: Paul Alivisatos", "long": "true", "colour": "FAE088", "children": [
+				{"name": "UC Botanical Garden", "colour": "CBDB2A", "size": 22200},
+				{"name": "Off Campus Field Station", "colour": "754C29", "size": 22200},
+				{"name": "Institute for the Study of Societal Issues", "colour": "F68B1F", "size": 22200},
+				{"name": "Center for Race and Gender", "colour": "F68B1F", "size": 22200},
+				{"name": "Center for Labor Research and Education", "colour": "F68B1F", "children": [
+					{"name": "Food Labor Research Center", "colour": "F68B1F", "size": 13500},
+					{"hide": "dummy", "size": 2000}
+				]}
+			]},
+			{"name": "VC: Scott Biddy", "colour": "FAE088", "children": [
+				{"name": "Real Estate", "colour": "FAE088", 
+				"children": [
+					{"name": "Student Real Estate Board", "colour": "457975", "size": 13000},
+					{"name": "Food Sanitation", "colour": "58595B", "size": 13000},
+					{"name": "Equator Cafe", "colour": "EF5D9D", "colour": "ED5B9F", "size": 13000},
+					{"name": "Bear's Lair", "colour": "EF5D9D", "size": 13000},
+					{"name": "Leased Dining Facilities", "colour": "EF5D9D", "size": 13000},
+					{"name": "Yali's", "colour": "EF5D9D", "size": 13000},
+					{"name": "Cal Zero Waste", "colour": "58595B", "size": 13000},
+					{"name": "Telegraph Green", "colour": "457975", "size": 13000}
+				]},
+				{"hide": "dummy", "size": 3000}
+			]},
+			{"name": "AC/Chief of Staff/LDO: Nils Gilman", "colour": "FAE088", "size": 76000},
+			{"name": "AC Govt. & Community Relations: Chris Treadway", "colour": "FAE088", "size": 76000},
+			{"name": "Interim AVC Communications & Public Affairs", "colour": "FAE088", "children": [
+				{"name": "AVC, Communications and Public Affairs: Dan Mogulof", "colour": "FAE088", "size": 76000},
+				{"hide": "dummy", "size": 3000}
+			]},
+			{"name": "AC & Campus Chief Ethics, Risk & Compliance: Khira Griscavage", "colour": "FAE088", "children": [
+				{"name": "Chief Audit Executive/Interim Risk Management Director: Wanda Lynn Riley", "colour": "FAE088", "size": 93000},
+				{"hide": "dummy", "size": 10000}
+			]},
+			{"name": "Interim VC for Student Affairs: Stephen Sutton", "colour": "FAE088", "children": [
+				{"name": "Graduate Assembly", "colour": "8D51A0", "size": 24000},
+				{"name": "Financial Aid Food Assistance Program", "colour": "39B54A", "size": 24000},
+				{"name": "Public Service Center", "colour": "FAE088", "size": 24000},
+				{"name": "Residential Programs", "colour": "FAE088", "children": [
+					{"name": "International House Cafe", "colour": "EF5D9D", "size": 9700},
+					{"name": "Dorm Kitchens", "colour": "EF5D9D", "size": 9700},
+					{"name": "UC Community Garden", "colour": "CBDB2A", "size": 9700},
+					{"name": "Clark Kerr Campus Garden", "colour": "CBDB2A", "size": 9700}
+				]},
+				{"name": "Cal Dining", "colour": "EF5D9D", "children": [
+					{"name": "Cal Dining Sustainability Team", "colour": "EF5D9D", "colour": "333391", "size": 13000},
+					{"name": "Bear's Lair", "colour": "EF5D9D", "size": 13000},
+					{"name": "The Golden Bear", "colour": "EF5D9D", "size": 13000},
+					{"name": "Ramona's", "colour": "EF5D9D", "size": 13000},
+					{"name": "Crossroads", "colour": "EF5D9D", "size": 13000},
+					{"name": "Common Grounds", "colour": "EF5D9D", "size": 13000},
+					{"name": "Qualcomm Cafe", "colour": "EF5D9D", "size": 13000},
+					{"name": "Brown's Cafe", "colour": "EF5D9D", "size": 13000},
+					{"name": "Cafe 3 & Bear Market", "colour": "EF5D9D", "size": 13000},
+					{"name": "Clark Kerr Dining Hall and Club Market", "colour": "EF5D9D", "size": 13000},
+					{"name": "The Terrace", "colour": "EF5D9D", "size": 13000},
+					{"name": "The Pro Shop Residential Sports Faciility", "colour": "EF5D9D", "size": 13000},
+					{"name": "Foothill", "colour": "EF5D9D", "size": 13000}
+				]},
+				{"name": "ASUC", "colour": "8D51A0", "children": [
+					{"name": "Bear Pantry(Albany)", "colour": "39B54A", "size": 13000},
+					{"name": "Food Science and Tech @ Cal", "colour": "457975", "size": 13000},
+					{"name": "Sustainable Landscapes Now Campaign", "colour": "457975", "size": 13000},
+					{"name": "The Green Initiative Fund", "colour": "39B54A", "children": [
+						{"name": "Student Environmental Resource Center", "colour": "333391", "size": 3000},
+						{"name": "Student Organic Garden", "colour": "CBDB2A", "size": 3000}
+					]},
+					{"name": "Gradfood", "colour": "457975", "size": 13000},
+					{"name": "Food, Equity, Entrepeneurship & Development", "colour": "457975", "size": 13000},
+					{"name": "City Food", "colour": "457975", "size": 13000},
+					{"name": "FoodInNo", "colour": "457975", "size": 13000},
+					{"name": "FoodDay", "colour": "457975", "size": 13000},
+					{"name": "Food@ Haas", "colour": "457975", "size": 13000},
+					{"name": "Student Real Estate Board", "colour": "457975", "size": 13000},
+					{"name": "Berkeley Organization for Animal Advocacy(BOAA)", "colour": "457975", "size": 13000},
+					{"name": "Food and Agriculture Policy Group", "colour": "457975", "size": 13000},
+					{"name": "Student Nutrition Advocacy Club", "colour": "457975", "size": 13000},
+					{"name": "Telegraph Green", "colour": "457975", "size": 13000},
+					{"name": "Swipe Out Hunger", "colour": "457975", "size": 13000},
+					{"name": "Food Science and Tech @ Cal", "colour": "457975", "size": 13000},
+					{"name": "Gill Tract Farm Student Coalition", "colour": "457975", "size": 13000},
+					{"name": "Sustainable Landscapes Now Campaign", "colour": "457975", "size": 13000},
+					{"name": "Berkeley Student Food Collective", "colour": "457975", "size": 13000},
+					{"name": "Cellular Agriculture Academic Society", "colour": "457975", "size": 13000},
+					{"name": "Spoon University", "colour": "457975", "size": 13000},
+					{"name": "Project Peanut Butter", "colour": "457975", "size": 13000}
+				]}
+			]},
+			{"name": "Schools", "colour": "E31E36",
+			"children": [
+				{"name": "School of Journalism", "colour": "E31E36", "children": [
+					{"name": "Journalism", "colour": "00AEEF", "size": 8000},
+					{"hide": "dummy", "size": 3000}
+				]},
+				{"name": "School of Social Welfare", "colour": "E31E36", "size": 13000},
+				{"name": "School of Education", "colour": "E31E36", "size": 13000},
+				{"name": "School of Information", "colour": "E31E36", "size": 13000},
+				{"name": "College of Letters & Sciences", "colour": "E31E36", "children": [
+					{"name": "Blum Center for Developing Economies", "colour": "F68B1F", "size": 3500},
+					{"name": "Townsend Center for the Humanities", "colour": "F68B1F", "size": 3500},
+					{"name": "International and Area Studies", "colour": "00AEEF", "size": 3500},
+					{"name": "Ethnic Studies", "colour": "00AEEF", "size": 3500},
+					{"name": "Statistics", "colour": "00AEEF", "size": 3500},
+					{"name": "Sociology", "colour": "00AEEF", "size": 3500},
+					{"name": "Media Studies", "colour": "00AEEF", "size": 3500},
+					{"name": "Geography", "colour": "00AEEF", "size": 3500},
+					{"name": "History", "colour": "00AEEF", "size": 3500},
+					{"name": "Psychology", "colour": "00AEEF", "size": 3500},
+					{"name": "Anthropology", "colour": "00AEEF", "size": 3500},
+					{"name": "African American Studies", "colour": "00AEEF", "size": 3500},
+					{"name": "Integrated Biology", "colour": "00AEEF", "children": [
+						{"name": "Biology Scholars Program", "colour": "333391", "size": 2400},
+						{"hide": "dummy", "size": 1000}
+					]},
+					{"name": "Linguistics", "colour": "00AEEF", "size": 3500},
+					{"name": "American Studies", "colour": "00AEEF", "size": 3500}
+				]},
+				{"name": "College of Natural Resources", "colour": "E31E36", "children": [
+					{"name": "Plant and Microbial Biology", "colour": "00AEEF", "size": 3500},
+					{"name": "Food Systems Minor", "colour": "00AEEF", "size": 3500},
+					{"name": "Energy and Resources Group", "colour": "00AEEF", "size": 3500},
+					{"name": "ESPM", "colour": "00AEEF", "size": 3500},
+					{"name": "Natural Resources", "colour": "00AEEF", "size": 3500},
+					{"name": "Agricultural and Resource Economics", "colour": "00AEEF", "size": 3500},
+					{"name": "Environmental Economics and Policy", "colour": "00AEEF", "size": 3500},
+					{"name": "Nutritional Sciences and Toxicology", "colour": "00AEEF", "size": 3500},
+					{"name": "Nutrition Policy Institute(UCANR)", "colour": "F68B1F", "size": 3500},
+					{"name": "Communication, Literacy, and Education for Agriculturual Research", "colour": "F68B1F", "size": 3500},
+					{"name": "Center for Diversified Farming Systems(DFS)", "colour": "F68B1F", "size": 3500},
+					{"name": "Berkeley Food Institute", "colour": "F68B1F", "size": 3500},
+					{"name": "Center for Effective Global Action", "colour": "F68B1F", "size": 3500},
+					{"name": "Gill Tract Garden", "colour": "CBDB2A", "size": 3500},
+					{"name": "Insectary", "colour": "754C29", "size": 3500},
+					{"name": "Cooperative Extension", "colour": "754C29", "children": [
+						{"name": "UC Cal Fresh Assistance", "colour": "39B54A", "size": 2400},
+						{"hide": "dummy", "size": 1000}
+					]},
+					{"name": "Gill Tract Field Station", "colour": "754C29", "size": 3500},
+					{"name": "Oxford Tract Field Station", "colour": "754C29", "size": 3500},
+					{"name": "Nutritional Sciences and Technology Teaching Kitchen", "colour": "754C29", "size": 3500}
+				]},
+				{"name": "College of Environmental Design", "colour": "E31E36", "children": [
+					{"name": "Blake Garden", "colour": "CBDB2A", "size": 3500},
+					{"name": "City Food", "colour": "457975", "size": 3500},
+					{"name": "Sustainable Environmental Design", "colour": "00AEEF", "size": 3500},
+					{"name": "Landscape Architecture and Environmental Planning", "colour": "00AEEF", "size": 3500},
+					{"name": "Architecture and Urban Design", "colour": "00AEEF", "size": 3500},
+					{"name": "City and Regional Planning", "colour": "00AEEF", "size": 3500}
+				]},
+				{"name": "Haas Business School", "colour": "E31E36", "children": [
+					{"name": "Undergraduate Business Administration", "colour": "00AEEF", "size": 3500},
+					{"name": "Haas Business School", "colour": "00AEEF", "size": 3500},
+					{"name": "Center for Responsible Business", "colour": "F68B1F", "size": 3500},
+					{"name": "FIFO @ Haas", "colour": "EF5D9D", "size": 3500},
+					{"name": "Haas Culinary Club", "colour": "457975", "size": 3500}
+				]},
+				{"name": "College of Engineering", "colour": "E31E36", "children": [
+					{"name": "Mechanical Engineering", "colour": "00AEEF", "size": 3500},
+					{"name": "Bioengineering", "colour": "00AEEF", "size": 3500},
+					{"name": "Civil & Environmental Engineering", "colour": "00AEEF", "size": 3500}
+				]},
+				{"name": "Goldman School of Public Policy", "colour": "E31E36", "children": [
+					{"name": "Public Policy", "colour": "00AEEF", "size": 3500},
+					{"name": "Gradfood", "colour": "457975", "size": 3500}
+				]},
+				{"name": "Boalt School of Law", "colour": "E31E36", "children": [
+					{"name": "Law", "colour": "00AEEF", "size": 3500},
+					{"name": "Cafe Zeb", "colour": "EF5D9D", "size": 3500}
+				]},
+				{"name": "School of Public Health", "colour": "E31E36", "children": [
+					{"name": "Center for Weight and Health", "colour": "00AEEF", "size": 3500},
+					{"name": "Center for Environmental Research and Children's Health", "colour": "00AEEF", "size": 3500},
+					{"name": "Labor Occupational Health Program", "colour": "00AEEF", "size": 3500},
+					{"name": "Center for Environmental Research and Children's Health", "colour": "00AEEF", "size": 3500},
+					{"name": "Labor and Occupational Health", "colour": "00AEEF", "size": 3500},
+					{"name": "Public Health", "colour": "00AEEF", "size": 3500},
+					{"name": "Eat Well Berkeley", "colour": "39B54A", "size": 3500},
+					{"name": "University Health Services", "colour": "39B54A", "size": 3500},
+					{"name": "Food Day", "colour": "457975", "size": 3500}
+
+				]}
+			]}
+		]}
+	]
+}
